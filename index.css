@@ -1,0 +1,84 @@
+body{
+    background-color: rgba(102, 102, 218, 0.513);
+}
+h1{
+    font-size: 34px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   color: aliceblue;
+}
+p{
+    font-size: 18px;
+    color: aliceblue;
+    font-family:
+}
+main{
+    background-image: url("file:image/970862.jpeg");
+    height: 650px;
+    background-repeat: no-repeat;
+
+}
+
+
+.containr{
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+header{
+    background-color: blueviolet;
+    color: cornsilk;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 0px 0px 15px 15px;
+}
+header h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav{
+    background-color: #55478560;
+    text-align: left;
+    margin-left: 14px;
+    margin-right: 14px;
+     color: rgb(245, 239, 239);
+     font-size: 20p;
+     border-radius: 0px 0px 15px 15px;
+
+
+}
+/*img{
+    height: 650px;
+    width: 1345px;
+} */
+footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+     padding-left:20px;
+    padding-right:20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav a{
+        text-decoration: none;
+        font-size: 12px;
+        padding-left: 20px;
+        padding-right: 20px; 
+        color: honeydew;
+}
+#about{
+    height: 650px;
+    background-image:url("file:image/wallpapersden.com_k-dark-sunset_2880x1800.jpg");
+    background-repeat: no-repeat;
+    border-image-width: 1420;
+}   
