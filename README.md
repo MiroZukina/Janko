@@ -1,2 +1,0 @@
-# Janko
-Psyhotherapy Janko Skudar
