@@ -7,10 +7,14 @@ h1{
    margin-bottom: 0px;
    color: aliceblue;
 }
+h2{
+    color: aliceblue;
+margin-top: 0;
+}
 p{
     font-size: 18px;
     color: aliceblue;
-    font-family:
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 main{
     background-image: url("file:image/970862.jpeg");
@@ -18,8 +22,6 @@ main{
     background-repeat: no-repeat;
 
 }
-
-
 .containr{
     width:80%;
     margin:auto;
@@ -49,7 +51,7 @@ nav{
      color: rgb(245, 239, 239);
      font-size: 20p;
      border-radius: 0px 0px 15px 15px;
-
+     position: fixed;
 
 }
 /*img{
@@ -82,3 +84,11 @@ nav a{
     background-repeat: no-repeat;
     border-image-width: 1420;
 }   
+
+section{
+    background-image: url("image/astronomy-1867616_1920-jpg.jpeg");
+height: 650px;
+}
+ a{
+     color:rgb(255, 255, 255)
+ }
